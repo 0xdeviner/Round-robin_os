@@ -1,4 +1,4 @@
-# Round-robin_os
+# Round-robin_OS
 
 This is a Round Robin Scheduling algorithm C compiled code for the given OS Assignment.
 
